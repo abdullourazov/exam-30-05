@@ -13,3 +13,4 @@ C:\Users\user\Desktop\Ef Core\exam-30-05\Infrastructure\obj\Debug\net9.0\Infrast
 C:\Users\user\Desktop\Ef Core\exam-30-05\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\Users\user\Desktop\Ef Core\exam-30-05\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\user\Desktop\Ef Core\exam-30-05\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\user\Desktop\Ef Core\exam-30-05\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
